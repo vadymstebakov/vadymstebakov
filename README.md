@@ -1,5 +1,8 @@
 ### Hi! I'm Vadym 👋
 
-<code>💻 Front-End Developer</code>
-<code>🕸 I'm interested in web development and computers</code>
-<code>🏋🏻‍♂️ I'm keen on doing sport</code>
+<code>🏞 Front-End</code>
+<code>💻 JavaScript</code>
+<code>📚 React</code>
+<code>🕸 Web Development</code>
+<code>🖥 Computers</code>
+<code>💪 Sport</code>
