@@ -2,7 +2,6 @@
 
 <code>🏞 Front-End</code>
 <code>🕸 Web Development</code>
-<code>🖥 Computers</code>
 <code>🧱 HTML</code>
 <code>🎨 CSS</code>
 <code>⭐️ JavaScript</code>
