@@ -11,4 +11,5 @@
 <code>🌌 Astro</code>
 <code>🚀 Solid.js</code>
 <code>🧩 Vue.js</code>
+<code>🧰 Svelte</code>
 <code>📕 Storybook</code>
