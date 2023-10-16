@@ -8,7 +8,7 @@
 <code>🌟 TypeScript</code>
 <code>⚛️ React</code>
 <code>🧬 Next.js</code>
+<code>🌌 Astro</code>
 <code>🚀 Solid.js</code>
 <code>🧩 Vue.js</code>
-<code>🌌 Astro</code>
 <code>📕 Storybook</code>
